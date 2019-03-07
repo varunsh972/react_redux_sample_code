@@ -1,0 +1,1 @@
+The code sample given is of React js with redux. The code is for children experiment website. Redux is used along with react js to manage the states of drag-gable events.
